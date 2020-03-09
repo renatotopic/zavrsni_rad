@@ -95,7 +95,7 @@ insert into racunalo(sifra,naziv,ip,tip,aktivan,invbr,wsname,terminal,mt)
 
 
 /*
-insert tablica 'tips' 
+insert tablica 'tip' 
 */
 insert into tip(sifra,naziv)
 	values
